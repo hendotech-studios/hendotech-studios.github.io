@@ -9,7 +9,7 @@ The following details any major updates and new features released for the Cross 
 <br>
 
 ### `Latest`
-# **Version 1.0** - January 2023
+# **Version 1.0** - February 2023
 First public release to Google PlayStore.
 
 #### What's New
