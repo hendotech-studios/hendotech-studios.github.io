@@ -7,7 +7,7 @@ include_in_header: false
 # Privacy Policy
 
 **Last updated**  
-December 24 2022
+March 23 2023
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your
 information when You use the Service and tells You about Your privacy rights and how the law protects You.
@@ -205,6 +205,7 @@ We may use third-party Service providers to monitor and analyze the use of our S
 
 - **GameAnalytics** <https://gameanalytics.com/privacy/>
 - **Google Analytics/Firebase** <https://policies.google.com/privacy>
+- **Facebook Analytics** <https://www.facebook.com/privacy/policy/>
 
 ### Advertising
 
@@ -213,6 +214,7 @@ The Service Providers We use may collect Your Personal Data including unique ide
 show relevant ads to you.
 
 - **Google AdMob** <https://policies.google.com/privacy>
+- **Appodeal** <https://www.appodeal.com/privacy-policy>
 
 ### Email Marketing
 
