@@ -7,7 +7,7 @@ include_in_header: false
 # Privacy Policy
 
 **Last updated**  
-March 23 2023
+May 15 2023
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your
 information when You use the Service and tells You about Your privacy rights and how the law protects You.
@@ -206,6 +206,7 @@ We may use third-party Service providers to monitor and analyze the use of our S
 - **GameAnalytics** <https://gameanalytics.com/privacy/>
 - **Google Analytics/Firebase** <https://policies.google.com/privacy>
 - **Facebook Analytics** <https://www.facebook.com/privacy/policy/>
+- **Adjust** <https://www.adjust.com/terms/privacy-policy/>
 
 ### Advertising
 
