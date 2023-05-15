@@ -9,6 +9,13 @@ The following details any major updates and new features released for the Cross 
 <br>
 
 ### `Latest`
+# **Version 1.2** - May 2023
+Improved Device Compatibility
+
+#### What's New
+- Fix stability on low-end devices
+- Change from Vulkan renderer to OpenGL
+
 # **Version 1.1** - March 2023
 Feature update and stability fixes.
 
