@@ -9,6 +9,14 @@ The following details any major updates and new features released for the Cross 
 <br>
 
 ### `Latest`
+# **Version 1.3** - June 2023
+Additional levels and themes
+
+#### What's New
+- More levels and dailys
+- Additional themes and improvements
+- Bug fixes
+
 # **Version 1.2** - May 2023
 Improved Device Compatibility
 
