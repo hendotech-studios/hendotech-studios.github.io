@@ -9,6 +9,13 @@ The following details any major updates and new features released for the Cross 
 <br>
 
 ### `Latest`
+# **Version 1.4** - July 2023
+Global Leaderboard
+
+#### What's New
+- Unlockable player avatars
+- World rankings leaderboard
+
 # **Version 1.3** - June 2023
 Additional levels and themes
 
