@@ -7,7 +7,7 @@ include_in_header: false
 # End-User License Agreement ("Agreement")
 
 **Last updated**
-December 24 2022
+August 2 2024
 
 Please read this End-User License Agreement carefully before clicking the "I Agree" button, downloading or
 using Cross Search.
@@ -270,5 +270,5 @@ Company's services, which the Company will provide to You at the time of such us
 ## Contact Us
 
 If you have any questions about this Agreement, You can contact Us:
-- By sending us an email: <contact.hendotech@gmail.com>
+- By sending us an email: <contact@hendotech.com.au>
 

@@ -7,7 +7,7 @@ include_in_header: false
 # Privacy Policy
 
 **Last updated**  
-May 15 2023
+August 2 2024
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your
 information when You use the Service and tells You about Your privacy rights and how the law protects You.
@@ -258,5 +258,5 @@ are effective when they are posted on this page.
 ## Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
-- By sending us an email: <contact.hendotech@gmail.com>
+- By sending us an email: <contact@hendotech.com.au>
 

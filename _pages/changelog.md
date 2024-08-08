@@ -9,6 +9,14 @@ The following details any major updates and new features released for the Cross 
 <br>
 
 ### `Latest`
+# **Version 1.5** - Aug 2024
+Additional levels and improvements
+
+#### What's New
+- More levels and reinstate dailys
+- Bugfixes
+- Update to latest game engine and libraries
+
 # **Version 1.4** - July 2023
 Global Leaderboard
 
